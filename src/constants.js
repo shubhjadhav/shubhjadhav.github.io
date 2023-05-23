@@ -43,6 +43,11 @@ export const contactLinks = [
   //   link: 'https://stackoverflow.com/users/11788531/aakash-sharma' 
   // },
   { 
+    name: 'Email', 
+    url: 'https://img.icons8.com/?size=50&id=81218&format=png', 
+    link: 'https://www.instagram.com/shubham.in.us/' 
+  },
+  { 
     name: 'Instagram', 
     url: 'https://img.icons8.com/doodle/40/000000/instagram-new--v2.png', 
     link: 'https://www.instagram.com/shubham.in.us/' 
