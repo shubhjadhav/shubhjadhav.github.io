@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.176b99b4.css",
+    "main.js": "/static/js/main.69c30679.js",
+    "static/js/787.bd2e414b.chunk.js": "/static/js/787.bd2e414b.chunk.js",
+    "static/media/dark.jpg": "/static/media/dark.2e73a7df0eb517801488.jpg",
+    "static/media/light.jpg": "/static/media/light.3930f4577f7a18d81a71.jpg",
+    "static/media/Shubham-Jadhav-Resume.pdf": "/static/media/Shubham-Jadhav-Resume.bea10573e49a8e8453ed.pdf",
+    "static/media/cloudBg.png": "/static/media/cloudBg.f28b5c6961fd82be839c.png",
+    "static/media/cloudDark.png": "/static/media/cloudDark.51edaa54cabe7b964ae9.png",
+    "index.html": "/index.html",
+    "main.176b99b4.css.map": "/static/css/main.176b99b4.css.map",
+    "main.69c30679.js.map": "/static/js/main.69c30679.js.map",
+    "787.bd2e414b.chunk.js.map": "/static/js/787.bd2e414b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.176b99b4.css",
+    "static/js/main.69c30679.js"
+  ]
+}
