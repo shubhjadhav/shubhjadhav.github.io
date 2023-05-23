@@ -30,6 +30,8 @@ const About = () => {
                   : "mt-4 text-xl text-justify text-white"
               }
             >
+              Lorem ipsum dolor sit amet. Et vitae aspernatur et accusantium incidunt ut unde dolorem eos delectus aperiam eum voluptatem dolores et officiis maiores aut dolores nostrum! Vel aspernatur atque sit expedita optio eum laboriosam corrupti est vitae internos ut quibusdam eveniet est nulla consequatur. Rem accusamus obcaecati et velit nihil in impedit vitae et numquam reiciendis aut odio velit ab aliquid quasi! Id commodi itaque ut veritatis voluptatum ea dolor ducimus.
+
               I'm a self-taught data scientist and Mobile App Developer with
               experience in designing new features from ideation to production,
               implementation of wireframes and design flows into high
@@ -52,6 +54,9 @@ const About = () => {
                   : "mt-4 text-xl text-justify text-white"
               }
             >
+              Lorem ipsum dolor sit amet. Et vitae aspernatur et accusantium incidunt ut unde dolorem eos delectus aperiam eum voluptatem dolores et officiis maiores aut dolores nostrum! Vel aspernatur atque sit expedita optio eum laboriosam corrupti est vitae internos ut quibusdam eveniet est nulla consequatur. Rem accusamus obcaecati et velit nihil in impedit vitae et numquam reiciendis aut odio velit ab aliquid quasi! Id commodi itaque ut veritatis voluptatum ea dolor ducimus.
+
+
               Using a combination of cutting-edge technologies and reliable
               open-source software I build user-focused, performant apps and
               websites for smartphones, tablets, and desktops.
