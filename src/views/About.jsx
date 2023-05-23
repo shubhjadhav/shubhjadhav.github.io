@@ -30,7 +30,7 @@ const About = () => {
                   : "mt-4 text-xl text-justify text-white"
               }
             >
-              I'm a self-taught web developer and Mobile App Developer with
+              I'm a self-taught data scientist and Mobile App Developer with
               experience in designing new features from ideation to production,
               implementation of wireframes and design flows into high
               performance software applications. I take into consideration the
